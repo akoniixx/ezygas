@@ -1,0 +1,31 @@
+{
+    "data": [
+        {
+            "id": 1,
+            "name_en": "free 6 months",
+            "name_th": "ฟรี 6 เดือน",
+            "vendor_maximum": 40,
+            "date_start": "2019-07-01T00:00:00+07:00",
+            "date_expire": "2019-10-01T00:00:00+07:00",
+            "is_reusable": false
+        },
+        {
+            "id": 2,
+            "name_en": "free 2 months reduce 50% 2 months",
+            "name_th": "ฟรี 2 เดือน จ่ายครึ่งเดียว 2 เดือน",
+            "vendor_maximum": 100000,
+            "date_start": "2019-07-01T00:00:00+07:00",
+            "date_expire": "2019-10-01T00:00:00+07:00",
+            "is_reusable": false
+        },
+        {
+            "id": 3,
+            "name_en": "free 2 months",
+            "name_th": "ฟรี 2 เดือน",
+            "vendor_maximum": 100000,
+            "date_start": "2019-07-01T00:00:00+07:00",
+            "date_expire": "3019-10-01T00:00:00+07:00",
+            "is_reusable": false
+        }
+    ]
+}

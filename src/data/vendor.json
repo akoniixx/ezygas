@@ -1,0 +1,18 @@
+{
+    "data": [
+        {
+            "id": 1,
+            "name_en": "EasyGasShop",
+            "name_th": "EasyGasShop",
+            "tel": "+66985235802",
+            "province": "กรุงเทพมหานคร",
+            "district": "พระนคร",
+            "subdistrict": "ดุสิต",
+            "zipcode": "73000",
+            "service_charge": 10,
+            "lat": "0.000",
+            "long": "0.000",
+            "premium_date_left": "2020-7-30T01:17:04.373235+07:00"
+        }
+    ]
+}

@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, shrink-to-fit=no" />
+    <!-- description -->
+    <meta name="Description" content="EasyGas">
+    <!-- style -->
+    <link rel="preload" href="/assets/css/31.css" type="text/css" as="style">
+    <link rel="preload" href="/assets/css/main.css" type="text/css" as="style">
+    <!-- script -->
+    <link rel="preload" href="/assets/js/main.js" as="script">
+    <!-- font -->
+    <link rel="preload" href="/assets/fonts/sukhumvit.woff2" as="font" type="font/woff2" crossorigin>
+    <title>Ezygas</title>
+    <style>
+        .loading {
+            display: inline-block;
+            width: 30px;
+            height: 30px;
+            border: 2px solid rgba(100, 100, 100, .2);
+            border-radius: 50%;
+            border-top-color: rgba(100, 100, 100, .7);
+            animation: spin 1s ease-in-out infinite;
+            -webkit-animation: spin 1s ease-in-out infinite;
+            left: calc(50% - 15px);
+            top: calc(50% - 15px);
+            position: fixed;
+            z-index: 1;
+        }
+
+        @keyframes spin {
+            to {
+                -webkit-transform: rotate(360deg);
+            }
+        }
+
+        @-webkit-keyframes spin {
+            to {
+                -webkit-transform: rotate(360deg);
+            }
+        }
+    </style>
+</head>
+
+<body>
+    <div id="root">
+        <div class="loading"></div>
+    </div>
+    <link rel="stylesheet" href="/assets/fonts/simple-line-icons/css/simple-line-icons.css" type="text/css" media="(max-width: 911px)">
+    <link rel="stylesheet" href="/assets/fonts/iconsmind/style.css" type="text/css" media="all">
+</body>
+
+</html>

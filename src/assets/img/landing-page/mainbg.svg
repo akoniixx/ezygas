@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1440px" height="4248px" viewBox="0 0 1440 4248" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 55.1 (78136) - https://sketchapp.com -->
+    <title>Group 28</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="50%" y1="-2.48949813e-15%" x2="50%" y2="100%" id="linearGradient-1">
+            <stop stop-color="#FFFFFF" stop-opacity="0" offset="0%"></stop>
+            <stop stop-color="#EBEEF0" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Landing-Page" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Landing-Monitor">
+            <g id="Group-28" transform="translate(-643.000000, -94.000000)">
+                <rect id="Rectangle" fill="#FFFFFF" x="643" y="99" width="1440" height="4248"></rect>
+                <path d="M499.285764,183.806184 C1028.26166,25.8682713 1918.76927,-58.347636 2382.82168,46.3372415 C2846.87409,151.022119 2839.22891,472.439317 2382.82168,608.710187 C1926.41445,744.981058 905.761902,700.406521 499.285764,608.710187 C92.8096251,517.013853 -29.6901291,341.744096 499.285764,183.806184 Z" id="HeaderBG" fill="url(#linearGradient-1)" transform="translate(1437.500000, 347.500000) scale(1, -1) translate(-1437.500000, -347.500000) "></path>
+                <path d="M352.285764,3925.80618 C881.261656,3767.86827 1771.76927,3683.65236 2235.82168,3788.33724 C2699.87409,3893.02212 2692.22891,4214.43932 2235.82168,4350.71019 C1779.41445,4486.98106 758.761902,4442.40652 352.285764,4350.71019 C-54.1903749,4259.01385 -176.690129,4083.7441 352.285764,3925.80618 Z" id="FooterBG" fill="url(#linearGradient-1)"></path>
+            </g>
+        </g>
+    </g>
+</svg>

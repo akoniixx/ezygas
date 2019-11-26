@@ -1,0 +1,19 @@
+{
+    "data": [
+        {
+            "id": 6,
+            "purchase_number": "0001201906071446",
+            "vendor": 1,
+            "package": 1,
+            "status": 4,
+            "fullname": "tuangsit tirabutr",
+            "phonenumber": "0985235802",
+            "email": "easy@gas.co",
+            "date_of_purchase": "2019-06-07T14:46:00+07:00",
+            "date_of_payment": "2019-06-07T14:46:00+07:00",
+            "image_url": "https://res.cloudinary.com/easygas/image/upload/v1559893645/slip/2019/06/07/0001_2019-06-07_14:46.png",
+            "amount_of_payment": 1000,
+            "approved_by": ""
+        }
+    ]
+}

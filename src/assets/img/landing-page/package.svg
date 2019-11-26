@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="889px" height="513px" viewBox="0 0 889 513" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 55.1 (78136) - https://sketchapp.com -->
+    <title>Detail Pro</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="56.3122041%" y1="100%" x2="56.3122041%" y2="9.15084398%" id="linearGradient-1">
+            <stop stop-color="#2820AF" offset="0%"></stop>
+            <stop stop-color="#261B65" offset="100%"></stop>
+        </linearGradient>
+        <filter x="-3.6%" y="-8.4%" width="107.2%" height="116.8%" filterUnits="objectBoundingBox" id="filter-2">
+            <feGaussianBlur stdDeviation="10" in="SourceGraphic"></feGaussianBlur>
+        </filter>
+        <linearGradient x1="48.2752111%" y1="106.112013%" x2="48.2752111%" y2="-11.8080928%" id="linearGradient-3">
+            <stop stop-color="#2820AF" offset="0%"></stop>
+            <stop stop-color="#261B65" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-4">
+            <stop stop-color="#000000" offset="0%"></stop>
+            <stop stop-color="#FFFFFF" offset="100%"></stop>
+        </linearGradient>
+        <path d="M89,0 L750,0 C758.284271,-1.52179594e-15 765,6.71572875 765,15 L765,424 C765,432.284271 758.284271,439 750,439 L89,439 C80.7157288,439 74,432.284271 74,424 L74,15 C74,6.71572875 80.7157288,1.52179594e-15 89,0 Z" id="path-5"></path>
+        <filter x="-9.6%" y="-14.1%" width="119.1%" height="130.1%" filterUnits="objectBoundingBox" id="filter-6">
+            <feGaussianBlur stdDeviation="17" in="SourceGraphic"></feGaussianBlur>
+        </filter>
+        <filter x="-10.9%" y="-16.3%" width="121.9%" height="134.4%" filterUnits="objectBoundingBox" id="filter-8">
+            <feOffset dx="0" dy="4" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="7.5" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0.0274509804   0 0 0 0 0.164705882   0 0 0 0 0.266666667  0 0 0 0.1 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <path d="M15,0 L676,0 C684.284271,-1.52179594e-15 691,6.71572875 691,15 L691,424 C691,432.284271 684.284271,439 676,439 L15,439 C6.71572875,439 1.01453063e-15,432.284271 0,424 L0,15 C-1.01453063e-15,6.71572875 6.71572875,1.52179594e-15 15,0 Z" id="path-9"></path>
+        <filter x="-3.5%" y="-4.7%" width="107.1%" height="111.2%" filterUnits="objectBoundingBox" id="filter-11">
+            <feOffset dx="0" dy="4" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="7.5" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0.0274509804   0 0 0 0 0.164705882   0 0 0 0 0.266666667  0 0 0 0.1 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <path d="M15,0 L676,0 C684.284271,-1.52179594e-15 691,6.71572875 691,15 L691,424 C691,432.284271 684.284271,439 676,439 L15,439 C6.71572875,439 1.01453063e-15,432.284271 0,424 L0,15 C-1.01453063e-15,6.71572875 6.71572875,1.52179594e-15 15,0 Z" id="path-12"></path>
+        <filter x="-3.5%" y="-4.7%" width="107.1%" height="111.2%" filterUnits="objectBoundingBox" id="filter-14">
+            <feOffset dx="0" dy="4" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="7.5" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0.0274509804   0 0 0 0 0.164705882   0 0 0 0 0.266666667  0 0 0 0.1 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="Landing-Page" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Landing-Monitor" transform="translate(-276.000000, -3355.000000)">
+            <g id="Group-16" transform="translate(301.000000, 3253.000000)">
+                <g id="Detail-Pro" transform="translate(0.000000, 135.000000)">
+                    <g id="Fram">
+                        <g id="Group-10" transform="translate(0.000000, 78.000000)">
+                            <rect id="Rectangle" fill="url(#linearGradient-1)" filter="url(#filter-2)" x="0" y="15" width="839" height="358" rx="55"></rect>
+                            <rect id="Rectangle" fill="url(#linearGradient-3)" x="0" y="0" width="839" height="387" rx="55"></rect>
+                        </g>
+                        <mask id="mask-7" fill="white">
+                            <use xlink:href="#path-5"></use>
+                        </mask>
+                        <g id="Mask" filter="url(#filter-6)">
+                            <use fill="black" fill-opacity="1" filter="url(#filter-8)" xlink:href="#path-5"></use>
+                            <use fill="url(#linearGradient-4)" fill-rule="evenodd" xlink:href="#path-5"></use>
+                        </g>
+                        <g id="Group-11" mask="url(#mask-7)">
+                            <g transform="translate(74.000000, 0.000000)">
+                                <mask id="mask-10" fill="white">
+                                    <use xlink:href="#path-9"></use>
+                                </mask>
+                                <g id="Mask" stroke="none" fill="none">
+                                    <use fill="black" fill-opacity="1" filter="url(#filter-11)" xlink:href="#path-9"></use>
+                                    <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-9"></use>
+                                </g>
+                                <mask id="mask-13" fill="white">
+                                    <use xlink:href="#path-12"></use>
+                                </mask>
+                                <g id="Mask" stroke="none" fill="none">
+                                    <use fill="black" fill-opacity="1" filter="url(#filter-14)" xlink:href="#path-12"></use>
+                                    <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-12"></use>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

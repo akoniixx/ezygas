@@ -1,0 +1,36 @@
+{
+    "data": [
+        {
+            "id": 8,
+            "name_en": "test",
+            "name_th": "test",
+            "tel": "+66985235802",
+            "province": "กรุงเทพมหานคร",
+            "district": "เขตดุสิต",
+            "subdistrict": "วชิรพยาบาล",
+            "zipcode": "10300",
+            "status": 1,
+            "service_charge": 0,
+            "lat": "0.000",
+            "long": "0.000",
+            "premium_date_left": null,
+            "supporter": 14
+        },
+        {
+            "id": 9,
+            "name_en": "yeen",
+            "name_th": "yeen",
+            "tel": "+66811231234",
+            "province": "กรุงเทพมหานคร",
+            "district": "เขตพระนคร",
+            "subdistrict": "พระบรมมหาราชวัง",
+            "zipcode": "10200",
+            "status": 2,
+            "service_charge": 0,
+            "lat": "0.000",
+            "long": "0.000",
+            "premium_date_left": null,
+            "supporter": 14
+        }
+    ]
+}

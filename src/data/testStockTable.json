@@ -1,0 +1,28 @@
+{
+    "data": {
+        "cylinder_type": [
+            "Picnic",
+            "15 kg",
+            "48 kg"
+        ],
+        "cylinder_brand": [
+            "PTT",
+            "World Gas",
+            "Siam Gas"
+        ],
+        "stock": {
+            "total_normal": 108,
+            "total_empty": 47,
+            "data": {
+                "normal": [
+                    [44, 10, 44],
+                    [0, 0, 10]
+                ],
+                "empty": [
+                    [10, 11, 5],
+                    [5, 7, 9]
+                ]
+            }
+        }
+    }
+}

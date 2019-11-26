@@ -1,0 +1,42 @@
+{
+    "data": [
+        {
+            "id": 1,
+            "cylinder_brand": "PTT",
+            "cylinder_type": "Picnic",
+            "quantity": 23,
+            "price": 20,
+            "quantity_empty": 49,
+            "is_active": true
+        },
+        {
+            "id": 2,
+            "cylinder_brand": "PTT",
+            "cylinder_type": "Picnic",
+            "quantity": 23,
+            "price": 20,
+            "quantity_empty": 49,
+            "is_active": true
+        },
+        {
+            "id": 3,
+            "cylinder_brand": "PTT",
+            "cylinder_type": "Picnic",
+            "quantity": 23,
+            "price": 20,
+            "quantity_empty": 49,
+            "is_active": true
+        },
+        {
+            "id": 4,
+            "cylinder_brand": "PTT",
+            "cylinder_type": "Picnic",
+            "quantity": 23,
+            "price": 20,
+            "quantity_empty": 49,
+            "is_active": true
+        }
+    ]
+}
+
+

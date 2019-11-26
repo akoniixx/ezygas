@@ -1,0 +1,31 @@
+{
+    "data": [
+        {
+            "id": 1,
+            "name_en": "monthly package",
+            "name_th": "แพ็คเกจรายเดือน",
+            "cost": 1000,
+            "discount": 0,
+            "available_date": 30,
+            "full_cost": 1000
+        },
+        {
+            "id": 2,
+            "name_en": "annual package",
+            "name_th": "แพ็คเกจรายปี",
+            "cost": 899,
+            "discount": 1212,
+            "available_date": 365,
+            "full_cost": 10788
+        },
+        {
+            "id": 3,
+            "name_en": "pay 1 get 2",
+            "name_th": "โปรจ่าย 1 เดือน รับ 2 เดือน",
+            "cost": 500,
+            "discount": 1000,
+            "available_date": 60,
+            "full_cost": 1000
+        }
+    ]
+}
